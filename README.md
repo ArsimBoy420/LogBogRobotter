@@ -25,7 +25,7 @@ Forbind ben 1 på potentiometeret til strømforsyningen (f.eks. en strimmel tils
 Forbind ben 2 på potentiometeret til en analog indgangspin på NodeMCU (f.eks. A0).
 Forbind ben 3 på potentiometeret til jordforbindelsen (f.eks. en strimmel tilsluttet GND).
 
-3.Forbind SG90 Servo:
+3. Forbind SG90 Servo:
 Forbind den røde ledning (strøm) på SG90 til strømforsyningen (f.eks. en strimmel tilsluttet 3.3V).
 Forbind den brune ledning (jord) på SG90 til jordforbindelsen (f.eks. en strimmel tilsluttet GND).
 Forbind den orange ledning (signal) på SG90 til en digital pin på NodeMCU (f.eks. D1).
