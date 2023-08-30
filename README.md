@@ -5,6 +5,11 @@ Trafiklys
 
 
 I dag fik vi opgave til at lave et trafiklys med 8 state(8s) hvor vi fik noget redskaber som man kan se på billede her:
+![20230830_194850](https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/96116ca2-98bb-45e9-8ecb-1233aaa9eb84)
+
+Jeg blev færdig med trafiklyset hvor den køre igennem de 8 state med 6 lys jeg har så brugt switch hvor jeg har gået ignnem 11 case
+
+Koden bliver så vist her?
 
 
 
