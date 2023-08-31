@@ -9,9 +9,6 @@ I dag fik vi opgave til at lave et trafiklys med 8 state(8s) hvor vi fik noget r
 
 Jeg blev færdig med trafiklyset hvor den køre igennem de 8 state med 6 lys jeg har så brugt switch hvor jeg har gået ignnem 11 case
 
-Koden bliver så vist her?
-
-
 
 29-08-2023 
 SG90 180 grader
@@ -39,26 +36,3 @@ Forbind den orange ledning (signal) på SG90 til en digital pin på NodeMCU (f.e
 ![20230829_205549](https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/f788bc49-3128-4b34-9a80-0fb4f33d18e6)
 
 https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/13c1be1a-3f4d-41bb-8758-eb5da35d4ae3
-
-Koden: 
-
-#include <Servo.h> 
-#include <Arduino.h>
-
-Servo myservo; 
-int val;
-
-void setup()
-{
-  myservo.attach(D1);
-}
-
-void loop() 
-{ 
-  val = analogRead(A0);           
-  val = map(val, 0, 1023, 0, 180);    
-  myservo.write(val);                  
-  delay(15);                          
-} 
-
-
