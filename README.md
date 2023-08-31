@@ -38,6 +38,8 @@ Forbind den orange ledning (signal) på SG90 til en digital pin på NodeMCU (f.e
 ![20230829_205542](https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/3c2f972e-7e79-4e97-a8b5-9db16f412bad)
 ![20230829_205549](https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/f788bc49-3128-4b34-9a80-0fb4f33d18e6)
 
+https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/13c1be1a-3f4d-41bb-8758-eb5da35d4ae3
+
 Koden: 
 
 #include <Servo.h> 
