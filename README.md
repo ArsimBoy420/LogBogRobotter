@@ -1,7 +1,7 @@
 # LogBogRobotter
 
-25-08-2023
-Trafiklys
+# 25-08-2023
+# Trafiklys
 
 
 I dag fik vi opgave til at lave et trafiklys med 8 state(8s) hvor vi fik noget redskaber som man kan se på billede her:
@@ -10,8 +10,8 @@ I dag fik vi opgave til at lave et trafiklys med 8 state(8s) hvor vi fik noget r
 Jeg blev færdig med trafiklyset hvor den køre igennem de 8 state med 6 lys jeg har så brugt switch hvor jeg har gået ignnem 11 case
 
 
-29-08-2023 
-SG90 180 grader
+# 29-08-2023 
+# SG90 180 grader (Tower)
 
 I dag fik vi nogle forskellelige opgaver og min gruppe fik en SG90 som der kan dreje 180 grader rundt og en B10K som vi skulle bruge til at dreje den så vi kunne dreje SG90 vi skulle så lave en kode der ville give komandorer så vi kunne dreje på B10K her på billede her under kan man se vores slut projekt på den med den kode vi havde brugt:
 
