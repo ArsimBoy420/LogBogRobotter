@@ -12,9 +12,7 @@ Jeg blev færdig med trafiklyset hvor den køre igennem de 8 state med 6 lys jeg
 
 # 29-08-2023 SG90 180 grader (Tower)
 
-I dag fik vi nogle forskellelige opgaver og min gruppe fik en SG90 som der kan dreje 180 grader rundt og en B10K som vi skulle bruge til at dreje den så vi kunne dreje SG90 vi skulle så lave en kode der ville give komandorer så vi kunne dreje på B10K her på billede her under kan man se vores slut projekt på den med den kode vi havde brugt:
-
-og en lille forklaring hvordan vi har sat ledninger på:
+I dag fik vi nogle forskellelige opgaver og min gruppe fik en SG90 som der kan dreje 180 grader rundt og en B10K som vi skulle bruge til at dreje den så vi kunne dreje SG90 vi skulle så lave en kode der ville give komandorer så vi kunne dreje på B10K her på billede her under kan man se vores slut projekt på den med den kode vi havde brugt og en lille forklaring hvordan vi har sat ledninger på:
 
 1. Forbind NodeMCU ESP8266:
 Forbind 3.3V-pinden på NodeMCU til en strømforsyning på breadboardet (f.eks. den øverste strimmel).
