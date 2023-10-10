@@ -1,4 +1,43 @@
 # LogBogRobotter
+
+# CarWIFI 
+
+Materialer:
+
+NodeMCU (ESP8266)
+ESP12E motor shield
+TT-motor
+8 AA batterier
+Ledninger
+
+Kode:
+
+Vi inkluderede "ESP8266WiFi" biblioteket for at give NodeMCU'en mulighed for at oprette forbindelse til et trådløst netværk ved hjælp af SSID og adgangskode.
+Vi brugte også "ESP8266WebServer" biblioteket til at oprette en HTTP-server, der kunne modtage kommandoer via Wi-Fi til styring af motoren.
+
+Beskrivelse:
+
+Vores projekt involverede oprettelse af en Wi-Fi-styret bil ved hjælp af NodeMCU og en TT-motor for at opnå dette brugte vi en ESP12E motor shield og forsynede den med strøm fra 8 AA-batterier
+NodeMCU'en blev konfigureret til at oprette forbindelse til et eksisterende trådløst netværk ved hjælp af SSID og adgangskode så vi kunne styre bilen via Wi-Fi
+En HTTP-server blev oprettet på NodeMCU'en ved hjælp af ESP8266WebServer-biblioteket denne server kunne modtage kommandoer fra en fjernenhed som vi kunne bruge til at styre motorens retning og hastighed
+
+3D-Model:
+
+Udover at arbejde med hardware og kode oprettede vi også en brugerdefineret 3D-model af en bil der blev brugt som en del af vores projekt denne model blev skabt i henhold til vores egne design
+
+![370207219_1426954907879265_2228441281571694687_n](https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/78adb7fb-dda8-4418-8f50-8b142fc3b490)
+![image](https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/016a9bd4-7338-45e4-9784-3f7825a5dba4)
+![image](https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/2fd59a0d-ea55-4914-9a8e-4ad6a8885548)
+
+Ideer som vi havde:
+
+
+![image](https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/f1b383aa-2cac-456c-9b32-72654bd6200c)
+![image](https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/f1fca3cb-e145-4318-a2f6-a3d231d25e88)
+
+
+
+
 # 25-08-2023 Trafiklys
 
 I dag fik vi opgave til at lave et trafiklys med 8 state(8s) hvor vi fik noget redskaber som man kan se på billede her:
