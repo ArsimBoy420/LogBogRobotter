@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid = "Arsims telefon";
-const char* password = "98JKBNio";
+const char* ssid = "(Internet navn)";
+const char* password = "(Koden)";
 
 const int motor1EN = D2; // Tilslut motor 1's EN-pin til en GPIO-pin
 const int motor1A = D3;  // Tilslut motor 1's A-pin til en GPIO-pin
