@@ -19,7 +19,7 @@ Beskrivelse:
 
 Vores projekt involverede oprettelse af en Wi-Fi-styret bil ved hjælp af NodeMCU og en TT-motor for at opnå dette brugte vi en ESP12E motor shield og forsynede den med strøm fra 8 AA-batterier
 NodeMCU'en blev konfigureret til at oprette forbindelse til et eksisterende trådløst netværk ved hjælp af SSID og adgangskode så vi kunne styre bilen via Wi-Fi
-En HTTP-server blev oprettet på NodeMCU'en ved hjælp af ESP8266WebServer-biblioteket denne server kunne modtage kommandoer fra en fjernenhed som vi kunne bruge til at styre motorens retning og hastighed
+En HTTP-server blev oprettet på NodeMCU'en ved hjælp af ESP8266WebServer-biblioteket denne server kunne modtage kommandoer fra en fjernenhed som vi kunne bruge til at styre motorens retning
 
 3D-Model:
 
