@@ -36,6 +36,10 @@ Ideer som vi havde:
 ![image](https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/f1fca3cb-e145-4318-a2f6-a3d231d25e88)
 
 
+Her er en video hvordan den virker med WIFI:
+
+https://github.com/ArsimBoy420/LogBogRobotter/assets/113034331/bb4669db-72ee-4560-bce9-da2593f6ac08
+
 
 
 # 25-08-2023 Trafiklys
