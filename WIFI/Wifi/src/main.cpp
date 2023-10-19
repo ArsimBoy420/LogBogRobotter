@@ -93,6 +93,3 @@ void setup() {
 void loop() {
   server.handleClient();
 }
-
-
-//http://192.168.180.237/gpio?cmd=2
